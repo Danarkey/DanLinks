@@ -1,9 +1,16 @@
 /* -------------------------------
    Base table styling
 --------------------------------- */
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
 .table {
     width: 100%;
     border-collapse: collapse;
+    min-width: 600px;
+    /* prevents collapsing on medium screens */
 }
 
 .table-xs th,
@@ -162,7 +169,6 @@ td.ev-cell {
 .filter-dropdown {
     position: absolute;
     top: 100%;
-    /* immediately below the input */
     left: 0;
     width: 100%;
     max-height: 16rem;
@@ -191,4 +197,76 @@ td.ev-cell {
 .filter-dropdown img {
     width: 32px;
     height: 32px;
+}
+
+/* -------------------------------
+   Mobile: hide all columns except Team and Paste
+--------------------------------- */
+@media (max-width: 640px) {
+
+    /* hide the less important columns */
+    th.author-col,
+    td.author-col,
+    th.desc-col,
+    td.desc-col,
+    th.ev-col,
+    td.ev-cell {
+        display: none;
+    }
+
+    /* allow table to fit mobile width */
+    .table {
+        min-width: 0;
+        width: 100%;
+    }
+
+    /* team column should stay inline horizontally */
+    th.team-col,
+    td.team-cell {
+        display: table-cell;
+        width: auto;
+        padding-right: 0.5rem;
+    }
+
+    td.team-cell {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        /* keep icons inline */
+        gap: 4px;
+        align-items: center;
+    }
+
+    /* paste column should be narrow and right aligned */
+    th.paste-col,
+    td.paste-col {
+        display: table-cell;
+        width: 72px;
+        white-space: nowrap;
+        text-align: right;
+        vertical-align: middle;
+    }
+
+    /* make filter bar full width and wrap tags */
+    #selectedPokemonContainer {
+        flex-wrap: wrap;
+        gap: 6px;
+    }
+
+    .filter-input {
+        flex: 1 1 100%;
+        min-width: 0;
+    }
+
+    /* slightly smaller icons on mobile */
+    .pokemon-icon {
+        width: 36px;
+        height: 36px;
+    }
+
+    /* reduce table row padding for compactness */
+    .table-xs th,
+    .table-xs td {
+        padding: 0.35rem 0.5rem;
+    }
 }
