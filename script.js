@@ -48,8 +48,29 @@ async function loadPastes() {
 }
 
 function formatSpeciesSlug(species) {
-    let slug = species.toLowerCase().trim().replace(/[^a-z0-9-]/g, '');
-    if (slug.endsWith('-m')) slug = slug.replace(/-m$/, '');
+    let slug = species.toLowerCase().trim();
+    slug = slug.replace(/[^a-z0-9-]/g, '');
+
+    // Kommo-o: correct spelling has hyphen, but sprite repo uses kommoo.png
+    if (slug === 'kommo-o') {
+        return 'kommoo';
+    }
+
+    // Tauros-Paldea forms: remove second hyphen for image URL
+    if (/^tauros-paldea-/i.test(slug)) {
+        slug = slug.replace(/^tauros-paldea-/, 'tauros-paldea');
+    }
+
+    // Tatsugiri-Curly → use base tatsugiri.png
+    if (slug === 'tatsugiri-curly') {
+        return 'tatsugiri';
+    }
+
+    // Existing rule: remove -m suffix from some Pokémon
+    if (slug.endsWith('-m')) {
+        slug = slug.replace(/-m$/, '');
+    }
+
     return slug;
 }
 
