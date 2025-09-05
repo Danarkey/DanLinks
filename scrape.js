@@ -54,32 +54,28 @@ const urls = fs.readFileSync(txtPath, 'utf-8')
 
                     if (pre.innerHTML.includes('<span class="attr">EVs: </span>')) hasEVs = true;
 
-                    const firstLineHtml = (pre.innerHTML.split('\n')[0] || '').trim();
-                    if (!firstLineHtml) return;
+                    // Grab first line text only
+                    let firstLineText = (pre.innerText.split('\n')[0] || '').trim();
+                    if (!firstLineText) return;
 
-                    const tmp = document.createElement('div');
-                    tmp.innerHTML = firstLineHtml;
+                    // Species is always before '@'
+                    let species = firstLineText.includes('@')
+                        ? firstLineText.split('@')[0].trim()
+                        : firstLineText;
 
-                    let species = null;
-                    const spans = tmp.querySelectorAll('span');
-                    for (const s of spans) {
-                        const cls = s.className || '';
-                        if (cls.split(/\s+/).some(c => c.startsWith('type-'))) {
-                            species = s.textContent.trim();
-                            break;
-                        }
-                    }
-
-                    if (!species) {
-                        species = (tmp.textContent || '').split('@')[0].trim();
-                        const parMatch = species.match(/\(([^)]+)\)/);
-                        if (parMatch && parMatch[1].trim()) {
-                            species = parMatch[1].trim();
-                        }
-                    }
-                    if (!species) return;
-
+                    // Remove gender markers like (M) or (F)
                     species = species.replace(/\s*\([MmFf]\)\s*$/, '').trim();
+
+                    // Remove nickname if format is "Nickname (Species)"
+                    const parMatch = species.match(/\(([^)]+)\)/);
+                    if (parMatch && parMatch[1].trim()) {
+                        species = parMatch[1].trim();
+                    }
+
+                    // Normalize Vivillon forms to plain "Vivillon"
+                    if (/^Vivillon/i.test(species)) {
+                        species = 'Vivillon';
+                    }
 
                     // Detect gender
                     let isFemale = false;
@@ -87,21 +83,13 @@ const urls = fs.readFileSync(txtPath, 'utf-8')
                     if (genderSpan && genderSpan.classList.contains('gender-f')) {
                         isFemale = true;
                     } else if (!genderSpan) {
-                        const firstLineText = (pre.innerText.split('\n')[0] || '');
                         const gm = firstLineText.match(/\(\s*([Ff])\s*\)/);
                         if (gm) isFemale = true;
                     }
 
-                    // Gender logic:
-                    // Default → strip gender entirely
-                    // Exceptions → keep -f suffix when female
+                    // Gender logic with exceptions
                     if (isFemale && genderExceptions.includes(species)) {
                         species = `${species}-f`;
-                    }
-
-                    // Special Kommo-o case
-                    if (/^Kommo-?o$/i.test(species)) {
-                        species = 'Kommoo' + (isFemale && genderExceptions.includes('Kommoo') ? '-f' : '');
                     }
 
                     pokemon.push({ species });
