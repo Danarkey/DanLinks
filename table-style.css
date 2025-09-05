@@ -1,0 +1,194 @@
+/* -------------------------------
+   Base table styling
+--------------------------------- */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-xs th,
+.table-xs td {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+}
+
+/* Fixed column widths */
+th.author-col,
+td.author-col {
+    width: 15%;
+}
+
+th.desc-col,
+td.desc-col {
+    width: 30%;
+}
+
+th.team-col,
+td.team-cell {
+    width: 30%;
+}
+
+th.ev-col,
+td.ev-cell {
+    width: 10%;
+    text-align: center;
+}
+
+th.paste-col,
+td.paste-col {
+    width: 15%;
+    text-align: center;
+}
+
+/* Zebra stripes */
+.table-zebra tbody tr:nth-child(even) {
+    background-color: #1D232A;
+}
+
+.table-zebra tbody tr:nth-child(odd) {
+    background-color: #191e24;
+}
+
+.table-zebra tbody tr:hover {
+    background-color: #15191E;
+}
+
+/* -------------------------------
+   Pokémon sprites styling
+--------------------------------- */
+.pokemon-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 6px;
+    transition: transform 0.2s;
+}
+
+.pokemon-icon:last-child {
+    margin-right: 0;
+}
+
+.pokemon-icon:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+/* Team column layout */
+td.team-cell {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 4px;
+    align-items: center;
+}
+
+/* Info button styling */
+.info-button {
+    cursor: pointer;
+    user-select: none;
+    font-size: 0.875rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+}
+
+/* Highlight filtered Pokémon */
+.pokemon-icon.filter-active {
+    outline: 2px solid #f9da55;
+    border-radius: 2px;
+}
+
+/* EVs column centering */
+td.ev-cell {
+    text-align: center;
+    font-weight: bold;
+    width: 40px;
+}
+
+.text-success {
+    color: #4ade80;
+}
+
+.text-error {
+    color: #f87171;
+}
+
+/* -------------------------------
+   Filter bar
+--------------------------------- */
+#selectedPokemonContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 2px 4px;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+}
+
+.filter-input {
+    flex-grow: 1;
+    min-width: 4rem;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding: 2px 4px;
+}
+
+.pokemon-tag {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.pokemon-tag img {
+    width: 40px;
+    height: 40px;
+}
+
+.pokemon-tag .remove-tag {
+    cursor: pointer;
+    color: #f87171;
+    font-weight: bold;
+}
+
+/* -------------------------------
+   Dropdown for Pokémon search
+--------------------------------- */
+.filter-dropdown {
+    position: absolute;
+    top: 100%;
+    /* immediately below the input */
+    left: 0;
+    width: 100%;
+    max-height: 16rem;
+    overflow-y: auto;
+    background-color: #1D232A;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    display: none;
+    margin-top: 2px;
+    list-style: none;
+    padding: 0;
+}
+
+.filter-dropdown li {
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.filter-dropdown li:hover {
+    background-color: #15191E;
+}
+
+.filter-dropdown img {
+    width: 32px;
+    height: 32px;
+}
