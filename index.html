@@ -4,36 +4,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokepast.es Teams</title>
+    <title>DanLinks</title>
     <link rel="stylesheet" href="https://www.falinks-teambuilder.com/_next/static/css/13ce186fa0818705.css">
     <link rel="stylesheet" href="table-style.css">
 </head>
 
 <body class="bg-base-100 text-white">
     <main class="relative w-full p-4">
-        <h1 class="text-2xl font-bold mb-4">Poképaste Teams</h1>
+        <h1 class="text-2xl font-bold mb-4">DanLinks - PokéPaste Repository</h1>
 
-        <table class="table table-zebra table-xs w-full bg-base-100">
-            <thead>
-                <tr>
-                    <th class="author-col">Author</th>
-                    <th class="desc-col">Description</th>
-                    <th class="team-col">
-                        <div class="flex flex-col items-start gap-1 relative">
-                            <span>Team</span>
-                            <div id="selectedPokemonContainer" class="filter-bar relative w-full">
-                                <input type="text" id="teamFilterInput" class="filter-input"
-                                    placeholder="Search Pokémon...">
-                                <ul id="teamFilterDropdown" class="filter-dropdown"></ul>
+        <div class="table-wrapper">
+            <table class="table table-zebra table-xs w-full bg-base-100">
+                <thead>
+                    <tr>
+                        <th class="author-col">Author</th>
+                        <th class="desc-col">Description</th>
+                        <th class="team-col">
+                            <div class="flex flex-col items-start gap-1 relative">
+                                <span>Team</span>
+                                <div id="selectedPokemonContainer" class="filter-bar relative w-full">
+                                    <input type="text" id="teamFilterInput" class="filter-input"
+                                        placeholder="Search Pokémon...">
+                                    <ul id="teamFilterDropdown" class="filter-dropdown"></ul>
+                                </div>
                             </div>
-                        </div>
-                    </th>
-                    <th class="ev-col">EVs</th>
-                    <th class="paste-col">Paste</th>
-                </tr>
-            </thead>
-            <tbody id="pokeTableBody"></tbody>
-        </table>
+                        </th>
+                        <th class="ev-col">EVs</th>
+                        <th class="paste-col">Paste</th>
+                    </tr>
+                </thead>
+                <tbody id="pokeTableBody"></tbody>
+            </table>
+        </div>
     </main>
 
     <script src="script.js"></script>
