@@ -15,16 +15,19 @@ const urls = fs.readFileSync(txtPath, 'utf-8')
     const page = await browser.newPage();
     const results = [];
 
+    const genderExceptions = ["Basculegion", "Indeedee", "Meowstic", "Oinkologne"];
+
     for (const url of urls) {
         try {
             await page.goto(url, { waitUntil: 'networkidle2' });
 
-            const data = await page.evaluate(() => {
+            const data = await page.evaluate((genderExceptions) => {
                 const h1Text = document.querySelector('h1')?.innerText || '';
                 const h2Text = document.querySelector('h2')?.innerText || '';
                 let author = '';
                 let description = '';
 
+                // Extract author and description
                 const splitIndex = h1Text.indexOf("'s ");
                 if (splitIndex > -1) {
                     author = h1Text.slice(0, splitIndex).trim();
@@ -46,57 +49,64 @@ const urls = fs.readFileSync(txtPath, 'utf-8')
                 let hasEVs = false;
                 const pokemon = [];
 
-                const genderExceptions = ["Basculegion", "Indeedee", "Meowstic", "Oinkologne"];
-
                 document.querySelectorAll('article').forEach(article => {
                     const pre = article.querySelector('pre');
                     if (!pre) return;
 
                     if (pre.innerHTML.includes('<span class="attr">EVs: </span>')) hasEVs = true;
 
-                    // Grab first line text only
-                    let firstLineText = (pre.innerText.split('\n')[0] || '').trim();
-                    if (!firstLineText) return;
+                    // Split pre text into lines and remove empty lines
+                    const lines = pre.innerText.split('\n').map(l => l.trim()).filter(l => l.length > 0);
 
-                    // Species is always before '@'
-                    let species = firstLineText.includes('@')
-                        ? firstLineText.split('@')[0].trim()
-                        : firstLineText;
+                    let currentPokemonText = [];
+                    lines.forEach((line, index) => {
+                        currentPokemonText.push(line);
 
-                    // Remove gender markers like (M) or (F)
-                    species = species.replace(/\s*\([MmFf]\)\s*$/, '').trim();
+                        // If next line starts a new Pokémon (contains '@') or this is the last line
+                        const nextLine = lines[index + 1] || '';
+                        if (nextLine.includes('@') || index === lines.length - 1) {
+                            let firstLineText = currentPokemonText[0];
 
-                    // Remove nickname if format is "Nickname (Species)"
-                    const parMatch = species.match(/\(([^)]+)\)/);
-                    if (parMatch && parMatch[1].trim()) {
-                        species = parMatch[1].trim();
-                    }
+                            // Species is before '@'
+                            let species = firstLineText.includes('@')
+                                ? firstLineText.split('@')[0].trim()
+                                : firstLineText;
 
-                    // Normalize Vivillon forms to plain "Vivillon"
-                    if (/^Vivillon/i.test(species)) {
-                        species = 'Vivillon';
-                    }
+                            // Remove gender markers like (M) or (F)
+                            species = species.replace(/\s*\([MmFf]\)\s*$/, '').trim();
 
-                    // Detect gender
-                    let isFemale = false;
-                    const genderSpan = article.querySelector('span.gender-f, span.gender-m');
-                    if (genderSpan && genderSpan.classList.contains('gender-f')) {
-                        isFemale = true;
-                    } else if (!genderSpan) {
-                        const gm = firstLineText.match(/\(\s*([Ff])\s*\)/);
-                        if (gm) isFemale = true;
-                    }
+                            // Remove nickname if format is "Nickname (Species)"
+                            const parMatch = species.match(/\(([^)]+)\)/);
+                            if (parMatch && parMatch[1].trim()) species = parMatch[1].trim();
 
-                    // Gender logic with exceptions
-                    if (isFemale && genderExceptions.includes(species)) {
-                        species = `${species}-f`;
-                    }
+                            // Normalize Vivillon forms
+                            if (/^Vivillon/i.test(species)) species = 'Vivillon';
 
-                    pokemon.push({ species });
+                            // Dudunsparce three-segment fix
+                            if (species.toLowerCase() === 'dudunsparce-three-segment') species = 'Dudunsparce';
+
+                            // Detect gender
+                            let isFemale = false;
+                            const genderSpan = article.querySelector('span.gender-f, span.gender-m');
+                            if (genderSpan && genderSpan.classList.contains('gender-f')) isFemale = true;
+                            else {
+                                const gm = firstLineText.match(/\(\s*([Ff])\s*\)/);
+                                if (gm) isFemale = true;
+                            }
+
+                            // Apply gender exceptions
+                            if (isFemale && genderExceptions.includes(species)) {
+                                species = `${species}-f`;
+                            }
+
+                            pokemon.push({ species });
+                            currentPokemonText = []; // reset for next Pokémon
+                        }
+                    });
                 });
 
                 return { author, description, pokemon, hasEVs, format };
-            });
+            }, genderExceptions);
 
             results.push({ ...data, url });
             console.log(`Scraped: ${url}`);
@@ -107,6 +117,8 @@ const urls = fs.readFileSync(txtPath, 'utf-8')
 
     await browser.close();
 
-    fs.writeFileSync('pastes.json', JSON.stringify(results, null, 2), 'utf-8');
+    // Save results to JSON
+    const jsonPath = path.resolve(__dirname, 'pastes.json');
+    fs.writeFileSync(jsonPath, JSON.stringify(results, null, 2), 'utf-8');
     console.log(`Scraped ${results.length} team${results.length === 1 ? '' : 's'}`);
 })();
