@@ -56,6 +56,11 @@ function formatSpeciesSlug(species) {
         return 'kommoo';
     }
 
+    // Porygon-Z: correct spelling has hyphen, but sprite repo uses porygonz.png
+    if (slug === 'porygon-z') {
+        return 'porygonz';
+    }
+
     // Tauros-Paldea forms: remove second hyphen for image URL
     if (/^tauros-paldea-/i.test(slug)) {
         slug = slug.replace(/^tauros-paldea-/, 'tauros-paldea');
