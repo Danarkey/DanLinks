@@ -5,13 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DanLinks</title>
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="table-style.css">
 </head>
 
 <body class="bg-base-100 text-white">
     <main class="relative w-full p-4">
-        <h1 class="text-2xl font-bold mb-4">DanLinks - PokéPaste Repository</h1>
+        <h1 class="text-2xl font-bold mb-4">
+            DanLinks - PokéPaste Repository
+        </h1>
+
+        <!-- FORMAT SELECTOR -->
+        <div class="mb-3 flex items-center gap-2">
+            <label for="formatFilter" class="text-sm font-semibold">Format</label>
+            <select id="formatFilter" class="format-select">
+                <option value="all">All formats</option>
+            </select>
+        </div>
 
         <div class="table-wrapper">
             <table class="table table-zebra table-xs w-full bg-base-100">
