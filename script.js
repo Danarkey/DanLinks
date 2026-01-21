@@ -5,8 +5,8 @@
 const DEFAULT_FORMAT = "regf"; // e.g. "regf", "regh"
 
 const FORMAT_CONFIG = {
-    regf: { label: "VGC 2024 Regulation F", file: "pastesF.json" },
-    regh: { label: "VGC 2025 Regulation H", file: "pastesH.json" }
+    regf: { label: "Regulation F", file: "pastesF.json" },
+    regh: { label: "Regulation H", file: "pastesH.json" }
 };
 
 /*************************************************
@@ -258,3 +258,4 @@ function initTeamFilter() {
  *************************************************/
 
 window.addEventListener("DOMContentLoaded", loadPastes);
+
