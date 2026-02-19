@@ -1,5 +1,5918 @@
 [
   {
+    "author": "Paul Chua",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/2925d3075b52c55b"
+  },
+  {
+    "author": "Zachary Weed",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Indeedee-F"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/325e6285c68f2679"
+  },
+  {
+    "author": "Francesco Pio Pero",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Thundurus"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Gouging fire"
+      },
+      {
+        "species": "Ting-Lu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/4c33811791790179"
+  },
+  {
+    "author": "Roberto Parente",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/9a04ef7700355af3"
+  },
+  {
+    "author": "Nicholas Kan",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/1de56fcac7a9ebe9"
+  },
+  {
+    "author": "Davide Fazio",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/e92e4a38c22bb8bf"
+  },
+  {
+    "author": "Frederik Nielsen",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Cresselia"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/756134fa3f8275a7"
+  },
+  {
+    "author": "Eric Rios",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ursaluna"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/e53735fe18bdaf2b"
+  },
+  {
+    "author": "Brian Hanley",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Drifblim"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/eb728903b5d2ce34"
+  },
+  {
+    "author": "juan salerno",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/14a17bd878aac0b2"
+  },
+  {
+    "author": "Juan Pablo Cambon",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/f89e74b1911a4b36"
+  },
+  {
+    "author": "Yan Sym",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/244450767046bc04"
+  },
+  {
+    "author": "Max Morales",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/e3b71d0ea83edaaa"
+  },
+  {
+    "author": "Juan José Mejia Tasayco",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Weezing-Galar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/b8a51b18c4718cb4"
+  },
+  {
+    "author": "Paul Ruiz",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/5d9de5b651ad1736"
+  },
+  {
+    "author": "Thiago Lattanzi",
+    "description": "2026 Santiago Pokémon VGC Regional Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/4ee598054c1b7f70"
+  },
+  {
+    "author": "Charlie K.",
+    "description": "2026 Europe Pokémon VGC International Championships Open Team Sheet",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Smeargle"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/23fcd0ee82ae6e76"
+  },
+  {
+    "author": "Clearmomdotcom",
+    "description": "Sydney Regionals Winning Team",
+    "pokemon": [
+      {
+        "species": "Zoroark-Hisui"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Whimsicott"
+      }
+    ],
+    "hasEVs": true,
+    "format": "",
+    "url": "https://pokepast.es/aa28ccfa7ecf7c70"
+  },
+  {
+    "author": "Wang Yuxiang",
+    "description": "Sydney Regional 2026 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2b82c7af10168afd"
+  },
+  {
+    "author": "Yuxiang Peng",
+    "description": "Sydney Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8e0701afbebeda8b"
+  },
+  {
+    "author": "Kynan Campbell",
+    "description": "Sydney Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/65b60dacae42c7fb"
+  },
+  {
+    "author": "Joji Kaieda",
+    "description": "Sydney Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/366b9c266c563289"
+  },
+  {
+    "author": "Yoav Reuven",
+    "description": "Sydney Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e90db8dd24ed0f4c"
+  },
+  {
+    "author": "Jude Lee",
+    "description": "Sydney Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Iron Hands"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/9b27ca557b3df27a"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Dimitri Koziaris' Sydney Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1718232c8552dabe"
+  },
+  {
+    "author": "Fan Zhang",
+    "description": "Sydney Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e98190dbbbea2ef7"
+  },
+  {
+    "author": "butterdawgsweep",
+    "description": "The Regi-me",
+    "pokemon": [
+      {
+        "species": "Registeel"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Regice"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/3ee26721d39e44cf"
+  },
+  {
+    "author": "magicalarcher57",
+    "description": "March Sun",
+    "pokemon": [
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus-Therian"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5cfb84a345cb8f5d"
+  },
+  {
+    "author": "calyxe",
+    "description": "Untitled 98 (OTS)",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5736df07fe30969e"
+  },
+  {
+    "author": "Scooteezy",
+    "description": "Sydney Squad",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/52278523084f85ed"
+  },
+  {
+    "author": "M0cking",
+    "description": "Sydney Sun Fun",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/dfdc099571ec5b71"
+  },
+  {
+    "author": "Shohei Kimura",
+    "description": "VR February Challenge Champion Team",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8aa23d7698e20755"
+  },
+  {
+    "author": "Louis Fontvieille",
+    "description": "VR February Challenge Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/cf2d11384264ffa6"
+  },
+  {
+    "author": "Guest 30190392",
+    "description": "Untitled 1",
+    "pokemon": [
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Thundurus"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Dragonite"
+      }
+    ],
+    "hasEVs": true,
+    "format": "",
+    "url": "https://pokepast.es/ae1a1b3944820a70"
+  },
+  {
+    "author": "MYGREAT",
+    "description": "222 (OTS)",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/0b7aac7ef5165b45"
+  },
+  {
+    "author": "Arianna Deiro",
+    "description": "VR February Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/17f92bf60a08d9fe"
+  },
+  {
+    "author": "Théotime Massaut",
+    "description": "VR February Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f562df25f0dcfd1e"
+  },
+  {
+    "author": "Josh Mintern",
+    "description": "VR February Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Smeargle"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8ff1765ca9a76519"
+  },
+  {
+    "author": "Mao Harada",
+    "description": "VR February Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/c78beaa184f9cb91"
+  },
+  {
+    "author": "Amin Lehna",
+    "description": "VR February Challenge Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/46b2f251a023b184"
+  },
+  {
+    "author": "Wow_Yang",
+    "description": "Untitled 216",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Orthworm"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2e956aa8c93a488c"
+  },
+  {
+    "author": "psychor&r",
+    "description": "P2Ursa-urshiW",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/dd285cab3474eebe"
+  },
+  {
+    "author": "psychor&r",
+    "description": "P2Ursa-ogerW",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/c31370766d4d9249"
+  },
+  {
+    "author": "Po1510",
+    "description": "Bantumlum",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8ceb8de9b0ecd4a9"
+  },
+  {
+    "author": "shoyuramen3",
+    "description": "gholdingus",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/36c988cfb9391fba"
+  },
+  {
+    "author": "LeunamTG",
+    "description": "1% de uso 99% de aura",
+    "pokemon": [
+      {
+        "species": "Gyarados"
+      },
+      {
+        "species": "Latias"
+      },
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Regieleki"
+      },
+      {
+        "species": "Torterra"
+      },
+      {
+        "species": "Volcarona"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b80574fa3e0187f1"
+  },
+  {
+    "author": "TuesdayFeb3rd",
+    "description": "Untitled 552",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Thundurus"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8ec5a4b1b0d8684e"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Challenge",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Orthworm"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/cd3ff497ec9d0ece"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Cup",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f40a7c207a544476"
+  },
+  {
+    "author": "hatsunechiyu",
+    "description": "Iron Crown Okidogi Team",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Okidogi"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/25d76f64160c0e5d"
+  },
+  {
+    "author": "psychor&r",
+    "description": "2026 EUIC CHAMP TEAM",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Hatterene"
+      },
+      {
+        "species": "Gallade"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/0d779919d89d6655"
+  },
+  {
+    "author": "zeen",
+    "description": "VR January Challenge #2 Champion Team",
+    "pokemon": [
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/52f246779d3080d0"
+  },
+  {
+    "author": "FedeCampoVGC",
+    "description": "VR January Challenge #2 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1c659180009671ed"
+  },
+  {
+    "author": "Louis Fontvieille",
+    "description": "VR January Challenge #2 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2c49ba094be971f7"
+  },
+  {
+    "author": "Nicolò Venturin",
+    "description": "VR January Challenge #2 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Heatran"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/01180afb7eed8778"
+  },
+  {
+    "author": "Li Yu-Chi",
+    "description": "VR January Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/aad9b4c643842c55"
+  },
+  {
+    "author": "Frederik Høj Nielsen",
+    "description": "VR January Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/af1f6065cb81bcc2"
+  },
+  {
+    "author": "Rishi Gupta",
+    "description": "VR January Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Roaring Moon"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/62b31382cddb4e82"
+  },
+  {
+    "author": "Sahil Shaikh",
+    "description": "VR January Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e0028244fc0ea021"
+  },
+  {
+    "author": "Carlos Cabal",
+    "description": "VR January Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/288b7ec804065cb9"
+  },
+  {
+    "author": "Mike Fiorita",
+    "description": "VR January Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Orthworm"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/fb676a524e8ada2b"
+  },
+  {
+    "author": "Guest 20957424",
+    "description": "evilest team",
+    "pokemon": [
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Regieleki"
+      },
+      {
+        "species": "Latios"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d097dc890f98a706"
+  },
+  {
+    "author": "Nakafuyu Yuki",
+    "description": "Yuki OTS PLD",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Gardevoir"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1dd031ca4d79d893"
+  },
+  {
+    "author": "OHKO",
+    "description": "Moltres-Galar Team",
+    "pokemon": [
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7d1b7678493af152"
+  },
+  {
+    "author": "Brian",
+    "description": "Peak 4th Place Ladder Wellspring Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5f5d10457d6a3a72"
+  },
+  {
+    "author": "iioflhyun",
+    "description": "Peak 4th Place Ladder Urshifu Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/3436d6ef1809e878"
+  },
+  {
+    "author": "psychor&r",
+    "description": "VR REG F dengo ver",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/94591a1c193f8177"
+  },
+  {
+    "author": "psychor&r",
+    "description": "VR REG F urshi-dark ver",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ed82eab14e1808d8"
+  },
+  {
+    "author": "psychor&r",
+    "description": "VR REG F Amoo Ver",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/058959a43183079f"
+  },
+  {
+    "author": "psychor&r",
+    "description": "VR REG F pao ver",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8e7727f28c482f30"
+  },
+  {
+    "author": "psychor&r",
+    "description": "VR REG F Moltres ver",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Moltres-Galar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/49655e3be2a42699"
+  },
+  {
+    "author": "Stefano Greppi",
+    "description": "Birmingham Regional 2026 Champion Team",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/80e96404321c7ecc"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Calculus' Birmingham Regional 2026 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Weezing-Galar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Chi-Yu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/bc212e767bd9d6c8"
+  },
+  {
+    "author": "Hengyue",
+    "description": "Birmingham Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/626ca7dbbaf8b04d"
+  },
+  {
+    "author": "MattieMoo",
+    "description": "Birmingham Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f6023f9055709faf"
+  },
+  {
+    "author": "marcofiero",
+    "description": "Birmingham Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Cornerstone"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/6a10e97e3b4d791a"
+  },
+  {
+    "author": "13Yoshi37",
+    "description": "Birmingham Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/00d3366da6e749cc"
+  },
+  {
+    "author": "EmbC",
+    "description": "Birmingham Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e18181f2a7baff98"
+  },
+  {
+    "author": "trobuz",
+    "description": "Birmingham Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/c0305c13afc89010"
+  },
+  {
+    "author": "zeen",
+    "description": "Birmingham Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/9a5c25f62254b4e0"
+  },
+  {
+    "author": "Simone Sanvito",
+    "description": "Birmingham Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f59e5fb5bd7b9eee"
+  },
+  {
+    "author": "Aurélien Soula",
+    "description": "Birmingham Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8f3e7bcec1f2cd52"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Louis' Birmingham Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/a35756e518b7d915"
+  },
+  {
+    "author": "Oliver Achermann",
+    "description": "Birmingham Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f5ef10ec895af8ca"
+  },
+  {
+    "author": "",
+    "description": "Eden Batchelor Top 32 Birmingham Regionals team",
+    "pokemon": [
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "",
+    "url": "https://pokepast.es/6bb4cb0f258aec92"
+  },
+  {
+    "author": "ZutomayoVGC",
+    "description": "Parting Slop v1.2",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ae97351f57208cbc"
+  },
+  {
+    "author": "Ozan Kaplan",
+    "description": "Mérida Regional 2026 Top 128 Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b44b77739574d19d"
+  },
+  {
+    "author": "Max",
+    "description": "Mérida Regional 2026 Champion Team",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8ce11d3c1ba8fc85"
+  },
+  {
+    "author": "Víctor Manoath",
+    "description": "Mérida Regional 2026 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b62528623afcf796"
+  },
+  {
+    "author": "IngeVGC",
+    "description": "Mérida Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/dace8ca3121d3696"
+  },
+  {
+    "author": "Kenneth Gamboa",
+    "description": "Mérida Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/83cfafa6d3aa2c29"
+  },
+  {
+    "author": "William Brown",
+    "description": "Mérida Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2a0d15f2fbaa2a50"
+  },
+  {
+    "author": "Cogao",
+    "description": "Mérida Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7ce41f2b7cd8bf69"
+  },
+  {
+    "author": "Sebastián Rodríguez",
+    "description": "Mérida Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/fc020f56b78b4c72"
+  },
+  {
+    "author": "MiraclePL",
+    "description": "VGC 26 \"UNIONS\" road",
+    "pokemon": [
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Okidogi"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1c55368b17017809"
+  },
+  {
+    "author": "Austin Le",
+    "description": "Mérida Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2e9f5f36a10381bd"
+  },
+  {
+    "author": "Ralfdude",
+    "description": "Mérida Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/15b5170a306c3789"
+  },
+  {
+    "author": "Alexander Canseco",
+    "description": "Mérida Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/deb438a15ed8eefa"
+  },
+  {
+    "author": "Enrique Grimaldo",
+    "description": "Mérida Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/268e6929cdcdb4cc"
+  },
+  {
+    "author": "Luis Pérez",
+    "description": "Mérida Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Corviknight"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/0e0fd0dc7313d638"
+  },
+  {
+    "author": "MiraclePL",
+    "description": "VGC 26 \"UNIONS\" road",
+    "pokemon": [
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Okidogi"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1c55368b17017809"
+  },
+  {
+    "author": "Yoav Reuven",
+    "description": "Auckland SPE 2026 Champion Team",
+    "pokemon": [
+      {
+        "species": "Zapdos-Galar"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/74d03931cfb52969"
+  },
+  {
+    "author": "Nicholas Kan",
+    "description": "Auckland SPE 2026 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/53031536c4e188e9"
+  },
+  {
+    "author": "Chloe",
+    "description": "AUCKLAND FINAL (OTS)",
+    "pokemon": [
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b089d8e63c2a5897"
+  },
+  {
+    "author": "Luke Iuele",
+    "description": "Auckland SPE 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/61bb4f27d7e91c87"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Dimitri Koziaris' Auckland SPE 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/3e85a46adb358875"
+  },
+  {
+    "author": "Christian Mossati",
+    "description": "Auckland SPE 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d690a7aefbb8cdac"
+  },
+  {
+    "author": "arrascaxeira",
+    "description": "Cm booster bolt",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/9c220a98eceb681b"
+  },
+  {
+    "author": "andrewbrophy",
+    "description": "Auckland SPE 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/6d35921240033644"
+  },
+  {
+    "author": "Jack Woodsford",
+    "description": "Auckland SPE 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Smeargle"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/81de34fe7b6ce2da"
+  },
+  {
+    "author": "Zhengyuan Jin",
+    "description": "Auckland SPE 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/0fb032ac438511c1"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Steeca Birmingham Winning Team",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/4eb87a40c2d6d20a"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Max Mérida Winning Team",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1ebf52b67cf53261"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Yoav Auckland Winning Team",
+    "pokemon": [
+      {
+        "species": "Zapdos-Galar"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/adaafbfb3e0a1375"
+  },
+  {
+    "author": "Darth_AaronVGC",
+    "description": "SmogonVGC Fall Seasonal Champion Team",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Iron Hands"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/78de211f5eea4825"
+  },
+  {
+    "author": "Guest 7012070",
+    "description": "Slip and Dip 45",
+    "pokemon": [
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/93425fbb4e320c12"
+  },
+  {
+    "author": "Paul",
+    "description": "Toronto Regional 2026 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/f05637d79766ec4b"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Cosmos' Toronto Regional 2026 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Okidogi"
+      },
+      {
+        "species": "Grimmsnarl"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/3ee634c3c16c8e41"
+  },
+  {
+    "author": "ironicpanda",
+    "description": "toronto top 4",
+    "pokemon": [
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5e3575ba72dfd360"
+  },
+  {
+    "author": "Clipperz",
+    "description": "Toronto Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/227543b805b24864"
+  },
+  {
+    "author": "Guest 9227144",
+    "description": "My Team",
+    "pokemon": [
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Glimmora"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7c8787b8f6e13b29"
+  },
+  {
+    "author": "Silverbroom",
+    "description": "Toronto Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ursaluna"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/af3c011484798197"
+  },
+  {
+    "author": "Dorian Kang",
+    "description": "Toronto Regional 2026 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/4990281786bd1232"
+  },
+  {
+    "author": "Ethan Trejo",
+    "description": "Toronto Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Iron Crown"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/fa7d8666436c5940"
+  },
+  {
+    "author": "Brendan Zheng",
+    "description": "Toronto Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/364818f887131555"
+  },
+  {
+    "author": "Tomo05",
+    "description": "Toronto",
+    "pokemon": [
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d5a700f21147f38f"
+  },
+  {
+    "author": "Emmanuel Boctor",
+    "description": "Toronto Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/70108b0543303356"
+  },
+  {
+    "author": "AzazeL_the_God",
+    "description": "Toronto Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/f1743663aec70831"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Charles Moses' Toronto Regional 2026 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/215bcb2b1da9b4e1"
+  },
+  {
+    "author": "itonlygetsdarker",
+    "description": "TORONTO",
+    "pokemon": [
+      {
+        "species": "Heatran"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus-Therian"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d491fa2819a862a1"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Toronto Top 64",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/6518027af48370fe"
+  },
+  {
+    "author": "MaineEvent",
+    "description": "Totonto Regional 2026 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ac8e53ca7037c245"
+  },
+  {
+    "author": "Rowan G.",
+    "description": "Totonto Regional 2026 Top 16 Team (Seniors)",
+    "pokemon": [
+      {
+        "species": "Glastrier"
+      },
+      {
+        "species": "Armarouge"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/6632815aab0899b1"
+  },
+  {
+    "author": "SableyeVGC 11",
+    "description": "Baxcalibur",
+    "pokemon": [
+      {
+        "species": "Baxcalibur"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/fec5544732053b4b"
+  },
+  {
+    "author": "Théotime Massaut",
+    "description": "VR January Challenge Champion Team",
+    "pokemon": [
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/a8db9d47c16345b9"
+  },
+  {
+    "author": "super brutebonnet",
+    "description": "Untitled 218",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/733ca2358e6c233b"
+  },
+  {
+    "author": "Jong One Moon",
+    "description": "VR January Challenge Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/c66bf561e0dc7260"
+  },
+  {
+    "author": "Jeff Lehmann",
+    "description": "VR January Challenge Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Archaludon"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/e909db2c449eee14"
+  },
+  {
+    "author": "Yuhi Arima",
+    "description": "VR January Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/cde5f084e61d5973"
+  },
+  {
+    "author": "Takahiro Ishida",
+    "description": "VR January Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/324e60eadcfc9c16"
+  },
+  {
+    "author": "mev lad",
+    "description": "VR January Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Roaring Moon"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/3b26f98876c7da62"
+  },
+  {
+    "author": "Luca Gesualdo",
+    "description": "VR January Challenge Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/c5051972198ca467"
+  },
+  {
+    "author": "Bernardo Luz",
+    "description": "VR January Challenge Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/158966949a4b6f98"
+  },
+  {
+    "author": "Cicciott",
+    "description": "VR January Challenge Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/612b11c277362640"
+  },
+  {
+    "author": "Yanagi",
+    "description": "VR January Challenge Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Iron Hands"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Baxcalibur"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/3efcf056768ca1e5"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "vs Victor",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d1d002974b05e32b"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Clipperz & NJ Cress Ursa Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b68c33d14340c9f7"
+  },
+  {
+    "author": "Aldrich",
+    "description": "Potential EUIC Team (Using his favorites)",
+    "pokemon": [
+      {
+        "species": "Articuno"
+      },
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Lycanroc"
+      },
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/61dbc4fbe5dc0896"
+  },
+  {
+    "author": "psyr_r",
+    "description": "Flutter Harc Balance Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "",
+    "url": "https://pokepast.es/19ce5392c18d1d99"
+  },
+  {
+    "author": "anboxing2",
+    "description": "Untitled 1 (OTS)",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Hatterene"
+      },
+      {
+        "species": "Gallade"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Ogerpon-Cornerstone"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/855da80a6e862ecd"
+  },
+  {
+    "author": "Guest 4335101",
+    "description": "CAMPEÃO GC IV",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Cornerstone"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Chi-Yu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b75fd1c43b0e12b6"
+  },
+  {
+    "author": "JanVGC",
+    "description": "Grand Challenge in-game JanVGC",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Hatterene"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Lilligant-Hisui"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "",
+    "url": "https://pokepast.es/199b1425704ff105"
+  },
+  {
+    "author": "Guest 2096930",
+    "description": "GC 2nd",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Iron Hands"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2c38edde48730ef4"
+  },
+  {
+    "author": "rgktest",
+    "description": "Copy of Copy of Copy of Erizabeth Gapdos T16 (OTS)",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Orthworm"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Zapdos-Galar"
+      },
+      {
+        "species": "Sinistcha"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/932005680ba5ce63"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Bandorus & Friends",
+    "pokemon": [
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7e89aae95a806122"
+  },
+  {
+    "author": "Goto",
+    "description": "2026 Grand Challenge IV 25th Place Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e3f849d4101c271f"
+  },
+  {
+    "author": "primsh9",
+    "description": "Storm Drain",
+    "pokemon": [
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Chi-Yu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b18be9629f8a2dc7"
+  },
+  {
+    "author": "th3nd_vg",
+    "description": "fuck it we ball",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/6dd22a217bfd421d"
+  },
+  {
+    "author": "Hamanathnath",
+    "description": "It was supposed to be a joke - GC4",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Naclstack"
+      },
+      {
+        "species": "Pyroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f819131f1cdb1979"
+  },
+  {
+    "author": "natuspkmn",
+    "description": "2026 Grand Challenge IV 248th Place Team",
+    "pokemon": [
+      {
+        "species": "Suicune"
+      },
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Iron Treads"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Thundurus"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/8a94ac2c552ae6ce"
+  },
+  {
+    "author": "ZutomayoVGC",
+    "description": "Serenade",
+    "pokemon": [
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/a331ede1534441db"
+  },
+  {
+    "author": "playmakeryoum",
+    "description": "Porygon-2 Ursaluna Tailroom Team",
+    "pokemon": [
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/42652d8ce2d5961d"
+  },
+  {
+    "author": "SlushiW",
+    "description": "bad day for rain",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/809515e737f6f800"
+  },
+  {
+    "author": "SlushiW",
+    "description": "bad day for rain",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/809515e737f6f800"
+  },
+  {
+    "author": "ironicpanda",
+    "description": "Wolfe Summit of Champions",
+    "pokemon": [
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2e3babfeca13a566"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "AGB Summit of Champions Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Dragonite"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1c8ca8f02fd46fee"
+  },
+  {
+    "author": "Kinugawa",
+    "description": "Summit of Champions Winter Invitational Champion Team",
+    "pokemon": [
+      {
+        "species": "Iron Bundle"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Thundurus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/19a89813a16c9dd5"
+  },
+  {
+    "author": "marcofiero",
+    "description": "Summit of Champions Winter Invitational Team",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/65b59e3540acb364"
+  },
+  {
+    "author": "Alex Gómez",
+    "description": "Summit of Champions Winter Invitational Team",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Dragonite"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/fe9e557746b33856"
+  },
+  {
+    "author": "Wolfey",
+    "description": "Summit of Champions Winter Invitational Team",
+    "pokemon": [
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/73481f4df12d2e5d"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Copy of Untitled 1182",
+    "pokemon": [
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f2b7d99efda5192a"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Copy of i swear i tried to make something other than my euic team (OTS)",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/bb584cc747145a9c"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Copy of Untitled 1153",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/2e1f951244629aa1"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Copy of Untitled 1162",
+    "pokemon": [
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/40ef70c48f13839e"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Untitled",
+    "pokemon": [
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Zapdos-Galar"
+      },
+      {
+        "species": "Sinistcha"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/aad1cb89e016623a"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Untitled 1191",
+    "pokemon": [
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/843f826f2df7a406"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Copy of Untitled 1135",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7289517afc4c2d23"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Untitled 1189",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Articuno"
+      },
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Heatran"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/a9a2dae778752ce4"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Untitled 1188",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5516076acbe231e3"
+  },
+  {
+    "author": "Imma lizard",
+    "description": "Untitled 1187",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/aaebe48a7ef2fdda"
+  },
+  {
+    "author": "Actoradoboy fan",
+    "description": "Copy of Untitled 6 (OTS)",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/789daaf7e305b876"
+  },
+  {
+    "author": "Guest 3460636",
+    "description": "カミ (OTS)",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/aa55d92665757024"
+  },
+  {
+    "author": "Noguerol_31",
+    "description": "Balance muy serio v.regF (OTS)",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1ae62bb428984e3e"
+  },
+  {
+    "author": "marcofiero",
+    "description": "rk9 (OTS)",
+    "pokemon": [
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e12200017283059f"
+  },
+  {
+    "author": "taketomi sakurako",
+    "description": "オプシ用 (OTS)",
+    "pokemon": [
+      {
+        "species": "Lilligant-Hisui"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Walking Wake"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ad5371b4392ff3ca"
+  },
+  {
+    "author": "Guest 3454525",
+    "description": "lowkey (OTS)",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/202b0652d6cb953b"
+  },
+  {
+    "author": "primsh9",
+    "description": "Dondozo Ting-Lu (OTS)",
+    "pokemon": [
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ce9dbd1bef1194d8"
+  },
+  {
+    "author": "blixt01",
+    "description": "TANNING IN PISTICCI (OTS)",
+    "pokemon": [
+      {
+        "species": "Walking Wake"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Great Tusk"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/000be9a9131a683a"
+  },
+  {
+    "author": "JMOdri",
+    "description": "VR? (OTS)",
+    "pokemon": [
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Ursaluna"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Iron Valiant"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/28ecdf3c7b67dc64"
+  },
+  {
+    "author": "aminkooo",
+    "description": "open (OTS)",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b0128862eac532d4"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Wu Chen VR Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Heatran"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Articuno"
+      },
+      {
+        "species": "Ninetales-Alola"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/10bd8a04495273fc"
+  },
+  {
+    "author": "Emirnent",
+    "description": "TerraCott",
+    "pokemon": [
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Terrakion"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/71cacfcede455436"
+  },
+  {
+    "author": "gloomythegoomy",
+    "description": "I do not set-up, I do not Fake Out cycle. I click Ivy Cudgel and if I don't get the KO I kms",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/d8653efbdab0648e"
+  },
+  {
+    "author": "kangourou1234",
+    "description": "Copy of Untitled 6 (OTS)",
+    "pokemon": [
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/460d6f0f4ea4234c"
+  },
+  {
+    "author": "Guest 4080274",
+    "description": "VR December (OTS)",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Moltres-Galar"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7a8d734210b958da"
+  },
+  {
+    "author": "Guest 4086563",
+    "description": "Untitled 186 (OTS)",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5d8f9baefed90bef"
+  },
+  {
+    "author": "Max",
+    "description": "VR December Challenge #2 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Articuno"
+      },
+      {
+        "species": "Landorus-Therian"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Heatran"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5d11b48038f4f511"
+  },
+  {
+    "author": "Hecate2",
+    "description": "VR (OTS)",
+    "pokemon": [
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/7b57313befd81dc5"
+  },
+  {
+    "author": "magyomi",
+    "description": "Copy of Copy of Untitled 22 (OTS)",
+    "pokemon": [
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ab2cefdd339d52db"
+  },
+  {
+    "author": "Guest 4938034",
+    "description": "vr dec2 (OTS)",
+    "pokemon": [
+      {
+        "species": "Gouging Fire"
+      },
+      {
+        "species": "Ting-Lu"
+      },
+      {
+        "species": "Zapdos-Galar"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/5a631e01e1af39af"
+  },
+  {
+    "author": "Landofraud",
+    "description": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled 334 (OTS)",
+    "pokemon": [
+      {
+        "species": "Ursaluna-Bloodmoon"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/1ff01a2d0b160818"
+  },
+  {
+    "author": "Guest 4065525",
+    "description": "Untitled 52 (OTS)",
+    "pokemon": [
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Entei"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/9734e5ab7cbb6a5b"
+  },
+  {
+    "author": "SnorlaxPikachu1",
+    "description": "i swear i tried to make something other than my euic team (OTS)",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/4fba7de0d27b218a"
+  },
+  {
+    "author": "Guest 4034744",
+    "description": "Copy of Utrecht (OTS)",
+    "pokemon": [
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/e8c8bdde0345551c"
+  },
+  {
+    "author": "ronfolldany",
+    "description": "Copy of Copy of 雪寿司 (OTS)",
+    "pokemon": [
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/b5953f3f77cfec21"
+  },
+  {
+    "author": "Guest 15427747",
+    "description": "VR (OTS)",
+    "pokemon": [
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/94c8b99d0aebf5c7"
+  },
+  {
+    "author": "",
+    "description": "",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/bc0cac1619bf66dc"
+  },
+  {
+    "author": "",
+    "description": "",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Porygon2"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Roaring Moon"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/d564c0353ec11641"
+  },
+  {
+    "author": "Guest 15312279",
+    "description": "Copy of EUIC (OTS)",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/3658329a0156f031"
+  },
+  {
+    "author": "Guest 15419250",
+    "description": "VR 1 (OTS)",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/0698bfa63a2cf03d"
+  },
+  {
+    "author": "80 80t",
+    "description": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of 1,500 chicken stars (DEC 6th) (OTS)",
+    "pokemon": [
+      {
+        "species": "Tornadus"
+      },
+      {
+        "species": "Smeargle"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Urshifu"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Landorus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/f6e9723c685e7b19"
+  },
+  {
+    "author": "",
+    "description": "Ots",
+    "pokemon": [
+      {
+        "species": "Iron Crown"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Tornadus"
+      }
+    ],
+    "hasEVs": false,
+    "format": "",
+    "url": "https://pokepast.es/f0236fab75f99893"
+  },
+  {
+    "author": "Bacon74",
+    "description": "something rain 2 (OTS)",
+    "pokemon": [
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Amoonguss"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Chien-Pao"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/016a284eb181f3b5"
+  },
+  {
+    "author": "vegettimeuidolo",
+    "description": "Untitled 35 (OTS)",
+    "pokemon": [
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Cresselia"
+      },
+      {
+        "species": "Entei"
+      },
+      {
+        "species": "Urshifu"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/77c6b598dc05597d"
+  },
+  {
+    "author": "Guest 15338040",
+    "description": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled 2012 (OTS)",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Landorus"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/9cbf1c1303868e0a"
+  },
+  {
+    "author": "lid12",
+    "description": "dozo fi obliv 2 max speed flutter (OTS)",
+    "pokemon": [
+      {
+        "species": "Dondozo"
+      },
+      {
+        "species": "Tatsugiri"
+      },
+      {
+        "species": "Weezing-Galar"
+      },
+      {
+        "species": "Flutter Mane"
+      },
+      {
+        "species": "Chi-Yu"
+      },
+      {
+        "species": "Raging Bolt"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/cdedcf11d5a3c0d8"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Turniertag",
+    "pokemon": [
+      {
+        "species": "Chien-Pao"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Ogerpon-Hearthflame"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/65292328cef0f067"
+  },
+  {
+    "author": "yeetawheat",
+    "description": "12.18.2025 Top 500 on SD ladder",
+    "pokemon": [
+      {
+        "species": "Grimmsnarl"
+      },
+      {
+        "species": "Urshifu-Rapid-Strike"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Flutter Mane"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/ff87f8b559b57dc8"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Regidrago Balance",
+    "pokemon": [
+      {
+        "species": "Regidrago"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raging Bolt"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Ogerpon-Wellspring"
+      },
+      {
+        "species": "Amoonguss"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9vgc2026regf",
+    "url": "https://pokepast.es/54cdd917682e0e7f"
+  },
+  {
     "author": "ironicpanda",
     "description": "Jude Roaring balance champion",
     "pokemon": [
