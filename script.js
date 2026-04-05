@@ -2,11 +2,12 @@
  * MANUAL CONFIG
  *************************************************/
 
-const DEFAULT_FORMAT = "regf"; // e.g. "regf", "regh"
+const DEFAULT_FORMAT = "regi"; // e.g. "regf", "regh", "regi"
 
 const FORMAT_CONFIG = {
     regf: { label: "Regulation F", file: "pastesF.json" },
-    regh: { label: "Regulation H", file: "pastesH.json" }
+    regh: { label: "Regulation H", file: "pastesH.json" },
+    regi: { label: "Regulation I", file: "pastesI.json" }
 };
 
 /*************************************************
@@ -205,6 +206,9 @@ function formatSpeciesSlug(species) {
     if (slug === "ting-lu") return "tinglu";
     if (slug === "wo-chien") return "wochien";
     if (slug === "urshifu-rapid-strike") return "urshifu-rapidstrike";
+    if (slug === "ho-oh") return "hooh";
+    if (slug === "necrozma-dawn-wings") return "necrozma-dawnwings";
+    if (slug === "necrozma-dusk-mane") return "necrozma-duskmane";
     if (slug.endsWith("-m")) slug = slug.replace(/-m$/, "");
     return slug;
 }
