@@ -5,9 +5,10 @@
 const DEFAULT_FORMAT = "regi"; // e.g. "regf", "regh", "regi"
 
 const FORMAT_CONFIG = {
-    regf: { label: "Regulation F", file: "pastesF.json" },
+    regi: { label: "Regulation I", file: "pastesI.json" },
     regh: { label: "Regulation H", file: "pastesH.json" },
-    regi: { label: "Regulation I", file: "pastesI.json" }
+    regf: { label: "Regulation F", file: "pastesF.json" },
+    regma: { label: "Regulation M-A", file: "pastesMA.json" },
 };
 
 /*************************************************
