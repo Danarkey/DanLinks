@@ -2,14 +2,17 @@
  * MANUAL CONFIG
  *************************************************/
 
-const DEFAULT_FORMAT = "regi"; // e.g. "regf", "regh", "regi"
+const DEFAULT_FORMAT = "regma"; // e.g. "regf", "regh", "regi"
 
 const FORMAT_CONFIG = {
+    regma: { label: "Regulation M-A", file: "pastesMA.json" },
     regi: { label: "Regulation I", file: "pastesI.json" },
     regh: { label: "Regulation H", file: "pastesH.json" },
     regf: { label: "Regulation F", file: "pastesF.json" },
-    regma: { label: "Regulation M-A", file: "pastesMA.json" },
 };
+
+const SPRITE_BASE = "https://play.pokemonshowdown.com/sprites/gen5/";
+const MAX_DROPDOWN_RESULTS = 60;
 
 /*************************************************
  * GLOBAL STATE
@@ -20,6 +23,8 @@ let selectedFormat = "all";
 let activeFilters = new Set();
 let allPokemonList = [];
 const maxFilters = 6;
+
+const loadedKeys = new Set(); // which format files are already fetched + merged
 
 /*************************************************
  * URL HELPERS
@@ -39,28 +44,45 @@ function updateURL() {
 }
 
 /*************************************************
- * DATA LOADING
+ * DATA LOADING (progressive)
  *************************************************/
 
-async function loadPastes() {
-    const tableBody = document.getElementById("pokeTableBody");
-    tableBody.innerHTML = "";
+// Fetch one format file once and merge its entries into allPastes.
+async function fetchFormat(key) {
+    if (loadedKeys.has(key)) return;
+    const res = await fetch(FORMAT_CONFIG[key].file);
+    const data = await res.json();
+    allPastes = allPastes.concat(data.map(entry => ({ ...entry, _formatKey: key })));
+    loadedKeys.add(key);
+}
 
+// Make sure every format needed to render the current view is loaded.
+async function ensureFormatLoaded(format) {
+    const keys = format === "all" ? Object.keys(FORMAT_CONFIG) : [format];
+    await Promise.all(keys.filter(k => !loadedKeys.has(k)).map(fetchFormat));
+}
+
+async function loadPastes() {
     selectedFormat = getFormatFromURL();
 
+    populateFormatDropdown();
+    initTeamFilter();
+
     try {
-        const fetches = Object.entries(FORMAT_CONFIG).map(async ([key, cfg]) => {
-            const res = await fetch(cfg.file);
-            const data = await res.json();
-            return data.map(entry => ({ ...entry, _formatKey: key }));
-        });
-
-        allPastes = (await Promise.all(fetches)).flat();
-
-        populateFormatDropdown();
+        // 1. Load only what the current view needs, then paint immediately.
+        await ensureFormatLoaded(selectedFormat);
         buildPokemonList(allPastes);
         renderTable();
-        initTeamFilter();
+
+        // 2. Warm the remaining formats in the background so switching is instant
+        //    and the search list becomes complete. No blocking the first paint.
+        const rest = Object.keys(FORMAT_CONFIG).filter(k => !loadedKeys.has(k));
+        if (rest.length) {
+            Promise.all(rest.map(fetchFormat)).then(() => {
+                buildPokemonList(allPastes);
+                if (selectedFormat === "all") renderTable();
+            });
+        }
     } catch (err) {
         console.error("Error loading paste repositories", err);
     }
@@ -82,9 +104,10 @@ function populateFormatDropdown() {
         select.appendChild(option);
     });
 
-    select.addEventListener("change", e => {
+    select.addEventListener("change", async e => {
         selectedFormat = e.target.value;
         updateURL();
+        await ensureFormatLoaded(selectedFormat); // no-op if already warmed
         renderTable();
     });
 }
@@ -93,41 +116,92 @@ function populateFormatDropdown() {
  * TABLE RENDERING
  *************************************************/
 
-function renderTable() {
+const ROW_BATCH = 100; // rows rendered per scroll batch
+
+let filteredPastes = [];   // current result set for the active format + filters
+let renderedCount = 0;     // how many of filteredPastes are in the DOM
+let rowObserver = null;    // IntersectionObserver that triggers the next batch
+
+function pasteMatches(paste) {
+    const matchesFormat = selectedFormat === "all" || paste._formatKey === selectedFormat;
+    if (!matchesFormat) return false;
+    if (activeFilters.size === 0) return true;
+    const rowSpecies = paste.pokemon.map(p => formatSpeciesSlug(p.species));
+    return [...activeFilters].every(f => rowSpecies.includes(f));
+}
+
+function buildRow(paste) {
+    const { author, description, pokemon, url, hasEVs } = paste;
+    const teamHTML = pokemon.map(p => {
+        const slug = formatSpeciesSlug(p.species);
+        return `<img src="${SPRITE_BASE}${slug}.png" alt="${p.species}" title="${p.species}" class="pokemon-icon" data-species="${slug}" loading="lazy" decoding="async" width="40" height="40">`;
+    }).join("");
+
+    const evHTML = hasEVs ? `<span class="text-success">&#10003;</span>` : `<span class="text-error">&#10007;</span>`;
+    const detailsHTML = `<span class="info-button btn-outline btn-ghost btn-xs btn" data-url="${url}">&#9432;</span>`;
+
+    const row = document.createElement("tr");
+    row.innerHTML = `
+        <td class="author-col">${author}</td>
+        <td class="desc-col">${description}</td>
+        <td class="team-cell">${teamHTML}</td>
+        <td class="ev-cell">${evHTML}</td>
+        <td class="paste-col">${detailsHTML}</td>
+    `;
+    return row;
+}
+
+// Append the next slice of filteredPastes to the table.
+function renderNextBatch() {
     const tableBody = document.getElementById("pokeTableBody");
-    tableBody.innerHTML = "";
+    const fragment = document.createDocumentFragment();
+    const end = Math.min(renderedCount + ROW_BATCH, filteredPastes.length);
 
-    const filtered = allPastes.filter(paste => {
-        const matchesFormat = selectedFormat === "all" || paste._formatKey === selectedFormat;
-        const rowSpecies = paste.pokemon.map(p => formatSpeciesSlug(p.species));
-        const matchesPokemon = activeFilters.size === 0 || [...activeFilters].every(f => rowSpecies.includes(f));
-        return matchesFormat && matchesPokemon;
-    });
-
-    filtered.forEach(paste => {
-        const { author, description, pokemon, url, hasEVs } = paste;
-        const teamHTML = pokemon.map(p => {
-            const slug = formatSpeciesSlug(p.species);
-            return `<img src="https://play.pokemonshowdown.com/sprites/gen5/${slug}.png" alt="${p.species}" title="${p.species}" class="pokemon-icon" data-species="${slug}">`;
-        }).join("");
-
-        const evHTML = hasEVs ? `<span class="text-success">&#10003;</span>` : `<span class="text-error">&#10007;</span>`;
-        const detailsHTML = `<span class="info-button btn-outline btn-ghost btn-xs btn" onclick="window.open('${url}','_blank')">&#9432;</span>`;
-
-        const row = document.createElement("tr");
-        row.innerHTML = `
-            <td class="author-col">${author}</td>
-            <td class="desc-col">${description}</td>
-            <td class="team-cell">${teamHTML}</td>
-            <td class="ev-cell">${evHTML}</td>
-            <td class="paste-col">${detailsHTML}</td>
-        `;
-
-        tableBody.appendChild(row);
-    });
+    for (let i = renderedCount; i < end; i++) {
+        fragment.appendChild(buildRow(filteredPastes[i]));
+    }
+    tableBody.appendChild(fragment);
+    renderedCount = end;
 
     updateTableHighlight();
-    addSpriteClickListeners();
+
+    // Keep a sentinel just below the last row so the observer can fire again.
+    if (renderedCount < filteredPastes.length) positionSentinel();
+    else hideSentinel();
+}
+
+function positionSentinel() {
+    const sentinel = document.getElementById("scrollSentinel");
+    if (sentinel) sentinel.style.display = "";
+}
+
+function hideSentinel() {
+    const sentinel = document.getElementById("scrollSentinel");
+    if (sentinel) sentinel.style.display = "none";
+}
+
+// Rebuild from scratch for a new format/filter selection.
+function renderTable() {
+    const tableBody = document.getElementById("pokeTableBody");
+    filteredPastes = allPastes.filter(pasteMatches);
+    renderedCount = 0;
+    tableBody.replaceChildren();
+    renderNextBatch();
+    window.scrollTo({ top: 0 });
+}
+
+// Reveal more rows as the user nears the bottom of the page.
+function initInfiniteScroll() {
+    const sentinel = document.getElementById("scrollSentinel");
+    if (!sentinel || !("IntersectionObserver" in window)) return;
+
+    rowObserver = new IntersectionObserver(entries => {
+        if (entries.some(e => e.isIntersecting) && renderedCount < filteredPastes.length) {
+            renderNextBatch();
+        }
+    }, { rootMargin: "600px 0px" });
+
+    rowObserver.observe(sentinel);
 }
 
 /*************************************************
@@ -137,15 +211,7 @@ function renderTable() {
 function buildPokemonList(pastes) {
     const uniquePokemon = new Set();
     pastes.forEach(p => p.pokemon.forEach(mon => uniquePokemon.add(mon.species)));
-    allPokemonList = [...uniquePokemon].sort();
-}
-
-function applyFilters() {
-    const rows = document.querySelectorAll('#pokeTableBody tr');
-    rows.forEach(row => {
-        const rowSpecies = Array.from(row.querySelectorAll('.pokemon-icon')).map(i => i.dataset.species);
-        row.style.display = [...activeFilters].every(f => rowSpecies.includes(f)) || activeFilters.size === 0 ? '' : 'none';
-    });
+    allPokemonList = [...uniquePokemon].sort((a, b) => a.localeCompare(b));
 }
 
 function updateTableHighlight() {
@@ -154,18 +220,11 @@ function updateTableHighlight() {
     });
 }
 
-function addSpriteClickListeners() {
-    const icons = document.querySelectorAll('#pokeTableBody .pokemon-icon');
-    icons.forEach(icon => {
-        icon.onclick = () => {
-            const species = icon.dataset.species;
-            if (activeFilters.has(species)) activeFilters.delete(species);
-            else if (activeFilters.size < maxFilters) activeFilters.add(species);
-            renderFilterTags();
-            applyFilters();
-            updateTableHighlight();
-        };
-    });
+function toggleFilter(species) {
+    if (activeFilters.has(species)) activeFilters.delete(species);
+    else if (activeFilters.size < maxFilters) activeFilters.add(species);
+    renderFilterTags();
+    renderTable();
 }
 
 function renderFilterTags() {
@@ -176,20 +235,19 @@ function renderFilterTags() {
     activeFilters.forEach(species => {
         const tag = document.createElement('div');
         tag.className = 'pokemon-tag';
-        tag.innerHTML = `<img src="https://play.pokemonshowdown.com/sprites/gen5/${species}.png"><span class="remove-tag">&#10005;</span>`;
+        tag.innerHTML = `<img src="${SPRITE_BASE}${species}.png" loading="lazy" decoding="async" width="40" height="40"><span class="remove-tag">&#10005;</span>`;
         tag.querySelector('.remove-tag').onclick = () => {
             activeFilters.delete(species);
             renderFilterTags();
-            applyFilters();
-            updateTableHighlight();
+            renderTable();
         };
         container.insertBefore(tag, input);
     });
 
-    // Shrink input width dynamically
-    const iconWidth = 40 + 4;
-    const usedWidth = activeFilters.size * iconWidth + 10;
-    input.style.width = `calc(100% - ${usedWidth}px)`;
+    // Hide the placeholder once at least one Pokémon is selected.
+    // Width and layout are handled by flexbox; the input fills whatever
+    // space the tags leave and wraps to a new line when they don't fit.
+    input.placeholder = activeFilters.size ? "" : "Search Pokémon...";
 }
 
 /*************************************************
@@ -214,47 +272,129 @@ function formatSpeciesSlug(species) {
     return slug;
 }
 
+/*************************************************
+ * TEAM FILTER (search dropdown)
+ *************************************************/
+
 function initTeamFilter() {
     const input = document.getElementById('teamFilterInput');
     const dropdown = document.getElementById('teamFilterDropdown');
     const container = document.getElementById('selectedPokemonContainer');
 
+    let matches = [];     // current filtered species names
+    let activeIndex = -1; // keyboard-highlighted item
+
+    function computeMatches(filter) {
+        const q = filter.toLowerCase();
+        return allPokemonList
+            .filter(p => p.toLowerCase().includes(q) && !activeFilters.has(formatSpeciesSlug(p)))
+            // Prefix matches first, then alphabetical, so results feel predictable.
+            .sort((a, b) => {
+                const ap = a.toLowerCase().startsWith(q);
+                const bp = b.toLowerCase().startsWith(q);
+                if (ap !== bp) return ap ? -1 : 1;
+                return a.localeCompare(b);
+            })
+            .slice(0, MAX_DROPDOWN_RESULTS);
+    }
+
+    function setActive(index) {
+        const items = dropdown.querySelectorAll('.dropdown-item');
+        if (!items.length) return;
+        activeIndex = (index + items.length) % items.length;
+        items.forEach((el, i) => el.classList.toggle('active', i === activeIndex));
+        items[activeIndex].scrollIntoView({ block: 'nearest' });
+    }
+
+    function closeDropdown() {
+        dropdown.style.display = 'none';
+        activeIndex = -1;
+    }
+
+    function chooseSpecies(species) {
+        if (activeFilters.size < maxFilters) {
+            activeFilters.add(species);
+            renderFilterTags();
+            renderTable();
+        }
+        input.value = '';
+        closeDropdown();
+    }
+
     function updateDropdown(filter = '') {
-        dropdown.innerHTML = '';
-        if (!filter) { dropdown.style.display = 'none'; return; }
+        if (!filter.trim()) { closeDropdown(); return; }
 
-        const filtered = allPokemonList
-            .filter(p => p.toLowerCase().includes(filter.toLowerCase()) && !activeFilters.has(formatSpeciesSlug(p)))
-            .sort((a, b) => a.localeCompare(b));
+        matches = computeMatches(filter);
+        activeIndex = -1;
 
-        filtered.forEach(p => {
+        const fragment = document.createDocumentFragment();
+        matches.forEach(p => {
             const slug = formatSpeciesSlug(p);
             const item = document.createElement('li');
             item.className = 'dropdown-item';
-            item.innerHTML = `<img src="https://play.pokemonshowdown.com/sprites/gen5/${slug}.png" class="pokemon-icon"> ${p}`;
+            item.innerHTML = `<img src="${SPRITE_BASE}${slug}.png" class="pokemon-icon" loading="lazy" decoding="async" width="32" height="32"> ${p}`;
             item.onmousedown = e => {
                 e.preventDefault();
-                if (activeFilters.size < maxFilters) {
-                    activeFilters.add(slug);
-                    renderFilterTags();
-                    applyFilters();
-                    updateTableHighlight();
-                }
-                input.value = '';
-                dropdown.style.display = 'none';
+                chooseSpecies(slug);
             };
-            dropdown.appendChild(item);
+            fragment.appendChild(item);
         });
+        dropdown.replaceChildren(fragment);
 
-        dropdown.style.display = filtered.length ? 'block' : 'none';
-        dropdown.style.top = `${container.offsetHeight}px`;
-        dropdown.style.left = `0px`;
+        dropdown.style.display = matches.length ? 'block' : 'none';
     }
 
-    input.addEventListener('input', () => updateDropdown(input.value));
+    // Debounce input so we don't rebuild the list on every keystroke.
+    let debounceTimer;
+    input.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => updateDropdown(input.value), 100);
+    });
+
     input.addEventListener('focus', () => updateDropdown(input.value));
+
+    input.addEventListener('keydown', e => {
+        const open = dropdown.style.display === 'block';
+        switch (e.key) {
+            case 'ArrowDown':
+                if (open) { e.preventDefault(); setActive(activeIndex + 1); }
+                else updateDropdown(input.value);
+                break;
+            case 'ArrowUp':
+                if (open) { e.preventDefault(); setActive(activeIndex - 1); }
+                break;
+            case 'Enter':
+                if (open && matches.length) {
+                    e.preventDefault();
+                    const pick = activeIndex >= 0 ? matches[activeIndex] : matches[0];
+                    chooseSpecies(formatSpeciesSlug(pick));
+                }
+                break;
+            case 'Escape':
+                closeDropdown();
+                break;
+        }
+    });
+
     document.addEventListener('click', e => {
-        if (!container.contains(e.target) && !dropdown.contains(e.target)) dropdown.style.display = 'none';
+        if (!container.contains(e.target) && !dropdown.contains(e.target)) closeDropdown();
+    });
+}
+
+/*************************************************
+ * EVENT DELEGATION (table interactions)
+ *************************************************/
+
+function initTableEvents() {
+    const tableBody = document.getElementById("pokeTableBody");
+    tableBody.addEventListener('click', e => {
+        const icon = e.target.closest('.pokemon-icon');
+        if (icon) {
+            toggleFilter(icon.dataset.species);
+            return;
+        }
+        const info = e.target.closest('.info-button');
+        if (info && info.dataset.url) window.open(info.dataset.url, '_blank', 'noopener');
     });
 }
 
@@ -262,5 +402,8 @@ function initTeamFilter() {
  * INIT
  *************************************************/
 
-window.addEventListener("DOMContentLoaded", loadPastes);
-
+window.addEventListener("DOMContentLoaded", () => {
+    initTableEvents();
+    initInfiniteScroll();
+    loadPastes();
+});

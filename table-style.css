@@ -134,16 +134,25 @@ td.ev-cell {
     position: relative;
     width: 100%;
     max-width: 100%;
+    box-sizing: border-box;
+    min-height: 46px;
     background-color: transparent;
 }
 
 .filter-input {
-    flex-grow: 1;
-    min-width: 4rem;
+    flex: 1 1 0;
+    box-sizing: border-box;
+    min-width: 0;
     border: none;
     outline: none;
     background-color: transparent;
+    font-weight: normal;
     padding: 2px 4px;
+}
+
+.filter-input::placeholder {
+    color: #9ca3af;
+    opacity: 1;
 }
 
 .pokemon-tag {
@@ -155,6 +164,8 @@ td.ev-cell {
 .pokemon-tag img {
     width: 40px;
     height: 40px;
+    min-width: 0;
+    object-fit: contain;
 }
 
 .pokemon-tag .remove-tag {
@@ -190,7 +201,8 @@ td.ev-cell {
     gap: 4px;
 }
 
-.filter-dropdown li:hover {
+.filter-dropdown li:hover,
+.filter-dropdown li.active {
     background-color: #15191E;
 }
 
@@ -247,14 +259,13 @@ td.ev-cell {
         vertical-align: middle;
     }
 
-    /* make filter bar full width and wrap tags */
+    /* keep the filter bar to a single line; tags shrink to fit */
     #selectedPokemonContainer {
-        flex-wrap: wrap;
-        gap: 6px;
+        flex-wrap: nowrap;
     }
 
     .filter-input {
-        flex: 1 1 100%;
+        flex: 1 1 0;
         min-width: 0;
     }
 
@@ -268,5 +279,16 @@ td.ev-cell {
     .table-xs th,
     .table-xs td {
         padding: 0.35rem 0.5rem;
+    }
+}
+
+/* -------------------------------
+   Tablet: hide the Description column
+--------------------------------- */
+@media (min-width: 641px) and (max-width: 1024px) {
+
+    th.desc-col,
+    td.desc-col {
+        display: none;
     }
 }
