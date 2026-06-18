@@ -48,11 +48,16 @@ function updateURL() {
  *************************************************/
 
 // Fetch one format file once and merge its entries into allPastes.
+// Slugs are computed here, once, so rendering and filtering never recompute them.
 async function fetchFormat(key) {
     if (loadedKeys.has(key)) return;
     const res = await fetch(FORMAT_CONFIG[key].file);
     const data = await res.json();
-    allPastes = allPastes.concat(data.map(entry => ({ ...entry, _formatKey: key })));
+    allPastes = allPastes.concat(data.map(entry => ({
+        ...entry,
+        _formatKey: key,
+        _slugs: entry.pokemon.map(p => formatSpeciesSlug(p.species)),
+    })));
     loadedKeys.add(key);
 }
 
@@ -123,18 +128,17 @@ let renderedCount = 0;     // how many of filteredPastes are in the DOM
 let rowObserver = null;    // IntersectionObserver that triggers the next batch
 
 function pasteMatches(paste) {
-    const matchesFormat = selectedFormat === "all" || paste._formatKey === selectedFormat;
-    if (!matchesFormat) return false;
+    if (selectedFormat !== "all" && paste._formatKey !== selectedFormat) return false;
     if (activeFilters.size === 0) return true;
-    const rowSpecies = paste.pokemon.map(p => formatSpeciesSlug(p.species));
-    return [...activeFilters].every(f => rowSpecies.includes(f));
+    return [...activeFilters].every(f => paste._slugs.includes(f));
 }
 
 function buildRow(paste) {
     const { author, description, pokemon, url, hasEVs } = paste;
-    const teamHTML = pokemon.map(p => {
-        const slug = formatSpeciesSlug(p.species);
-        return `<img src="${SPRITE_BASE}${slug}.png" alt="${p.species}" title="${p.species}" class="pokemon-icon" data-species="${slug}" loading="lazy" decoding="async" width="40" height="40">`;
+    const teamHTML = paste._slugs.map((slug, i) => {
+        const species = pokemon[i].species;
+        const active = activeFilters.has(slug) ? " filter-active" : "";
+        return `<img src="${SPRITE_BASE}${slug}.png" alt="${species}" title="${species}" class="pokemon-icon${active}" data-species="${slug}" loading="lazy" decoding="async" width="40" height="40">`;
     }).join("");
 
     const evHTML = hasEVs ? `<span class="text-success">&#10003;</span>` : `<span class="text-error">&#10007;</span>`;
@@ -162,8 +166,6 @@ function renderNextBatch() {
     }
     tableBody.appendChild(fragment);
     renderedCount = end;
-
-    updateTableHighlight();
 
     // Keep a sentinel just below the last row so the observer can fire again.
     if (renderedCount < filteredPastes.length) positionSentinel();
@@ -212,12 +214,6 @@ function buildPokemonList(pastes) {
     const uniquePokemon = new Set();
     pastes.forEach(p => p.pokemon.forEach(mon => uniquePokemon.add(mon.species)));
     allPokemonList = [...uniquePokemon].sort((a, b) => a.localeCompare(b));
-}
-
-function updateTableHighlight() {
-    document.querySelectorAll('#pokeTableBody .pokemon-icon').forEach(icon => {
-        icon.classList.toggle('filter-active', activeFilters.has(icon.dataset.species));
-    });
 }
 
 function toggleFilter(species) {
@@ -269,6 +265,7 @@ function formatSpeciesSlug(species) {
     if (slug === "necrozma-dawn-wings") return "necrozma-dawnwings";
     if (slug === "necrozma-dusk-mane") return "necrozma-duskmane";
     if (slug.endsWith("-m")) slug = slug.replace(/-m$/, "");
+    slug = slug.replace(/-mega-([xyz])$/, "-mega$1"); // mega-x/y/z -> megax/megay/megaz
     return slug;
 }
 
