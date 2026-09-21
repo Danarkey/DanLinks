@@ -2,9 +2,10 @@
  * MANUAL CONFIG
  *************************************************/
 
-const DEFAULT_FORMAT = "regmb"; // e.g. "regf", "regh", "regi"
+const DEFAULT_FORMAT = "regmc"; // e.g. "regf", "regh", "regi"
 
 const FORMAT_CONFIG = {
+    regmc: { label: "Regulation M-C", file: "pastesMC.json" },
     regmb: { label: "Regulation M-B", file: "pastesMB.json" },
     regma: { label: "Regulation M-A", file: "pastesMA.json" },
     regi: { label: "Regulation I", file: "pastesI.json" },
