@@ -1,5 +1,2678 @@
 [
   {
+    "author": "JoeUX9",
+    "description": "Baltimore Regional 2027 Champion Team",
+    "pokemon": [
+      {
+        "species": "Excadrill"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Indeedee"
+      },
+      {
+        "species": "Corviknight"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/9088ce7f283bf776"
+  },
+  {
+    "author": "ck49",
+    "description": "Baltimore Regional 2027 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Grimmsnarl"
+      },
+      {
+        "species": "Farigiraf"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/8fdc2755b3ed6351"
+  },
+  {
+    "author": "bsmiffy",
+    "description": "Baltimore Regional 2027 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Vivillon"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gengar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ce2800161014d6d9"
+  },
+  {
+    "author": "Blaik Thompson",
+    "description": "Baltimore Regional 2027 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Indeedee"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/0f52854ac985dff8"
+  },
+  {
+    "author": "Guest 10677393",
+    "description": "Balt Top 8",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Ceruledge"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/470a6ec2468af8a4"
+  },
+  {
+    "author": "Esa Ishaque",
+    "description": "Baltimore Regional 2027 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Froslass"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/375969c3f345582f"
+  },
+  {
+    "author": "Conner",
+    "description": "Baltimore Regional 2027 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d3a1849223a946f8"
+  },
+  {
+    "author": "Cole Basham",
+    "description": "Baltimore Regional 2027 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Delphox"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/1dbb80cce0e35047"
+  },
+  {
+    "author": "Dorian Kang",
+    "description": "Baltimore Regional 2027 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Armarouge"
+      },
+      {
+        "species": "Dragapult"
+      },
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Staraptor"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/10cae0577b786f6e"
+  },
+  {
+    "author": "gocinema96",
+    "description": "Baltimore Regional 2027 Top 16 Team U9LAHRDYTD",
+    "pokemon": [
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Golisopod"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2f1c6631010c3644"
+  },
+  {
+    "author": "BigMikeOG",
+    "description": "Baltimore Regional 2027 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Aerodactyl"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/54c13517f563db12"
+  },
+  {
+    "author": "Panda",
+    "description": "Baltimore Regional 2027 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Sinistcha-Masterpiece"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Delphox"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2a58ff9b99dab3a3"
+  },
+  {
+    "author": "wonder gawd",
+    "description": "Copy of Copy of Alto balto",
+    "pokemon": [
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Ceruledge"
+      },
+      {
+        "species": "Lopunny"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Dragonite"
+      },
+      {
+        "species": "Gardevoir"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/e97cb94d7e8d7678"
+  },
+  {
+    "author": "ArKaneVGC",
+    "description": "Copy of Copy of Copy of Copy of Seed Milo",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Dragapult"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Metagross-Mega"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Altaria"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/1a24e07035a9036e"
+  },
+  {
+    "author": "brenburkhardt",
+    "description": "Baltimore Regional 2027 Top 32 Team 4EYRS19FTW",
+    "pokemon": [
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Excadrill"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Primarina"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/7964df3689592688"
+  },
+  {
+    "author": "Ch3ssB0ard",
+    "description": "Baltimore Regionals 18th",
+    "pokemon": [
+      {
+        "species": "Gardevoir-Mega"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Kommo-o"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Pyroar-Mega"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/f0c719a12f5ca9c7"
+  },
+  {
+    "author": "ArKane",
+    "description": "Baltimore Regional 2027 Top 32 Team U3JUJFWFD2",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Altaria"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Dragapult"
+      },
+      {
+        "species": "Metagross"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ea35d1777f660322"
+  },
+  {
+    "author": "doughboyvgc",
+    "description": "Baltimore Regional 2027 Top 32 Team NTB3MRCL6U",
+    "pokemon": [
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Golisopod"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/9498e26ea89bd49c"
+  },
+  {
+    "author": "willbrown_vgc",
+    "description": "Baltimore Regional 2027 Top 32 Team VMB354UUA9",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/3ab405a83e618503"
+  },
+  {
+    "author": "twilite0",
+    "description": "Copy of Why am I playing this",
+    "pokemon": [
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d41341435d22d77b"
+  },
+  {
+    "author": "spacesnak3",
+    "description": "Baltimore Regional 2027 Top 64 Team QMNWBAYCNN",
+    "pokemon": [
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Noivern"
+      },
+      {
+        "species": "Venusaur"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/7daa12192d6b54cf"
+  },
+  {
+    "author": "zoryavgc",
+    "description": "Baltimore Regional 2027 Top 64 Team 2N8VC5HBDL",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Froslass"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/0bd9b6346f3630a1"
+  },
+  {
+    "author": "canadia_tuxedo",
+    "description": "Baltimore Regional 2027 Top 64 Team 82Y35N5N3L",
+    "pokemon": [
+      {
+        "species": "Swampert"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Sinistcha"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/8733c956c7c15dc6"
+  },
+  {
+    "author": "joej_live",
+    "description": "Baltimore Regional 2027 Top 64 Team F8Q309DHM7",
+    "pokemon": [
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/dce537b603b784c6"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "gufflearts' Baltimore Regional 2027 Top 64 Team RLERK0LA50",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Milotic"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d3277b02c40781f3"
+  },
+  {
+    "author": "Brian",
+    "description": "Baltimore Regional 2027 Top 64 Team SYX3QFJ06Y",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/e4aa1030c5e684b4"
+  },
+  {
+    "author": "Yanagi",
+    "description": "Baltimore Regional 2027 Top 128 Team 2J5B4BCSFM",
+    "pokemon": [
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Kommo-o"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Salamence"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/270ef42ee47f0369"
+  },
+  {
+    "author": "sinistchacha",
+    "description": "Baltimore Regional 2027 Top 128 Team 9N6D350FMW",
+    "pokemon": [
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Milotic"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/097433efcc505367"
+  },
+  {
+    "author": "misterteshima",
+    "description": "Baltimore Regional 2027 Top 128 Team FRQSEMR9CD",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/a8154c05ecfa0e20"
+  },
+  {
+    "author": "Skraw",
+    "description": "Baltimore Regional 2027 Top 128 Team 2ECEVD4Y18",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Gardevoir"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/8cc6b2b7139e9db9"
+  },
+  {
+    "author": "ImageTT7",
+    "description": "Baltimore Regional 2027 Top 155 Team 17KDDQARA4",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/8025f0aef5f2d1b6"
+  },
+  {
+    "author": "aricbxxiv",
+    "description": "Baltimore Regional 2027 Team AMFS8YWTM1",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Grimmsnarl"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Dragapult"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/1e06e1fb09f95133"
+  },
+  {
+    "author": "archaludon manning",
+    "description": "Balt",
+    "pokemon": [
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Kommo-o"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/00c891d2f3287a74"
+  },
+  {
+    "author": "benguins10",
+    "description": "Baltimore",
+    "pokemon": [
+      {
+        "species": "Golisopod-Mega"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Swampert-Mega"
+      },
+      {
+        "species": "Armarouge"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/06852f6b7710161c"
+  },
+  {
+    "author": "sidw",
+    "description": "Baltimore 2027",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Delphox"
+      },
+      {
+        "species": "Sinistcha-Masterpiece"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Floette-Mega"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2ed4943b3afafed1"
+  },
+  {
+    "author": "MaineEvent",
+    "description": "Baltimore Regional 2027 Team GQQ9S7XG43",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/bfe773d9cda8999c"
+  },
+  {
+    "author": "catrachokidd01",
+    "description": "Baltimore Regional 2027 Team 0LR4N19G61",
+    "pokemon": [
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Raichu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/e01ad4bad0da9ccc"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "seafoamshores' Baltimore Regional 2027 Team GA0H1NLJ8J",
+    "pokemon": [
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Hydreigon"
+      },
+      {
+        "species": "Grimmsnarl"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2b117207f8feb1a5"
+  },
+  {
+    "author": "glitchy_potat",
+    "description": "Baltimore Regional 2027 Team U5BVXHM6MF",
+    "pokemon": [
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Salamence"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/3e44cc0d5fba21f8"
+  },
+  {
+    "author": "_hendez_",
+    "description": "Baltimore Regional 2027 Team DVKP84C1YX",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Charizard"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2d99e9105e5f7a58"
+  },
+  {
+    "author": "anrivgc",
+    "description": "Baltimore Regional 2027 Team FCR4RCQEXY",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Aerodactyl"
+      },
+      {
+        "species": "Floette-Eternal"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/de8a417e6e85638a"
+  },
+  {
+    "author": "kaguyafalls",
+    "description": "I Want To Be Stronger- Baltimore '27",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Mawile"
+      },
+      {
+        "species": "Primarina"
+      },
+      {
+        "species": "Froslass"
+      },
+      {
+        "species": "Pawmot"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/06827585de2ad839"
+  },
+  {
+    "author": "astralorautumn",
+    "description": "Baltimore Regional 2027 Team 647JMM4R7W",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/dbc606408d738253"
+  },
+  {
+    "author": "cbadgg",
+    "description": "Baltimore Regional 2027 Team S9SVTM7MDJ",
+    "pokemon": [
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/120461d751b66e3a"
+  },
+  {
+    "author": "rowan_stavenow",
+    "description": "Baltimore Regional 2027 Team LFGQJFN3TS",
+    "pokemon": [
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Venusaur"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Grimmsnarl"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/3e44a93665f44983"
+  },
+  {
+    "author": "konnichiwonnor",
+    "description": "Baltimore Regional 2027 Team RGQUJ0611F",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/deb9dac3ff5777d5"
+  },
+  {
+    "author": "jt_speed",
+    "description": "Baltimore Regional 2027 Team FDVBT1P6SM",
+    "pokemon": [
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Pawmot"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Salamence"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/a566dfb356531ce8"
+  },
+  {
+    "author": "AtrixMJ",
+    "description": "Baltimore Regional 2027 Team SH9PE4TG4S",
+    "pokemon": [
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/953deeed6ec8064d"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "aboxoftimbits' Baltimore Regional 2027 Team WA181E3AQY",
+    "pokemon": [
+      {
+        "species": "Froslass"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Sneasler"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/31b8f7d49cc7e13a"
+  },
+  {
+    "author": "s!dd_1",
+    "description": "Double Meow",
+    "pokemon": [
+      {
+        "species": "Blaziken-Mega"
+      },
+      {
+        "species": "Meowstic-F-Mega"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Meowscarada"
+      },
+      {
+        "species": "Torkoal"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/45b92d43eb0a8519"
+  },
+  {
+    "author": "spy_anya11",
+    "description": "Recreation of JoeUX9's Baltimore Regional 2027 Champion Team KHV4QRC6A3 (Code by tempo777)",
+    "pokemon": [
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Excadrill"
+      },
+      {
+        "species": "Indeedee"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Corviknight"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/eff6d03dcb9d2c85"
+  },
+  {
+    "author": "zeen",
+    "description": "Recreation of ck49's Baltimore Regional 2027 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Grimmsnarl"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/62aa4ef34ee42f01"
+  },
+  {
+    "author": "JoeyPokeaim",
+    "description": "Recreation of Mary M.'s Baltimore Regional 2027 Top 8 Team (Seniors) 3DPJQY5JCK",
+    "pokemon": [
+      {
+        "species": "Squawkabilly"
+      },
+      {
+        "species": "Torkoal"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Camerupt"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Hatterene"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2a160038296e67e5"
+  },
+  {
+    "author": "yuki_mpm",
+    "description": "Kurotama Moutain Top 32 Team T6RDC0HVFE",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Raichu"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ecdecc58b9116d68"
+  },
+  {
+    "author": "chiazhengqi",
+    "description": "Garchomp-Z Metagross Team G4WXK11NVD",
+    "pokemon": [
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Delphox"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d9fd914e8be2c4c6"
+  },
+  {
+    "author": "didiledi",
+    "description": "Copy of Copy of TAP IN",
+    "pokemon": [
+      {
+        "species": "Floette-Mega"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Dragonite"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/c06c65c34f56a094"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Louis' VR September Challenge #2 Runner Up Team",
+    "pokemon": [
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2843468292efa020"
+  },
+  {
+    "author": "Yvar Vlieger",
+    "description": "VR September Challenge #2 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Meowstic-F"
+      },
+      {
+        "species": "Kommo-o"
+      },
+      {
+        "species": "Indeedee"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Charizard"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/104df22ab26ffa6c"
+  },
+  {
+    "author": "LenVGC",
+    "description": "VR September Challenge #2 Top 4 Team",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Maushold"
+      },
+      {
+        "species": "Sinistcha"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Blastoise"
+      },
+      {
+        "species": "Delphox"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/5032047ff7d825fd"
+  },
+  {
+    "author": "Lorenzo Antognoni",
+    "description": "VR September Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Milotic"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/6853674468737b2e"
+  },
+  {
+    "author": "Vivienne Gafner",
+    "description": "VR September Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Annihilape"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Swampert"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/af983ed470815738"
+  },
+  {
+    "author": "Keishiro Ohashi",
+    "description": "VR September Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Whimsicott"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Basculegion"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d668dd98c6c7177b"
+  },
+  {
+    "author": "DaniVGC",
+    "description": "VR September Challenge #2 Top 8 Team",
+    "pokemon": [
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Basculegion"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/6a2b0f5f83d97a24"
+  },
+  {
+    "author": "Gianmaria Sorbino",
+    "description": "VR September Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Basculegion"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/4836b743a1df1f2c"
+  },
+  {
+    "author": "Hari",
+    "description": "VR September Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/be520a6c8cb03827"
+  },
+  {
+    "author": "Tom te Boekhorst",
+    "description": "VR September Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Gardevoir"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Annihilape"
+      },
+      {
+        "species": "Armarouge"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/e5c3c2d984bc27eb"
+  },
+  {
+    "author": "Minche Chung",
+    "description": "VR September Challenge #2 Top 16 Team 3W8FBWPT7M",
+    "pokemon": [
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Kommo-o"
+      },
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/b987727e0339084a"
+  },
+  {
+    "author": "Rahim Farzan",
+    "description": "VR September Challenge #2 Top 16 Team",
+    "pokemon": [
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      }
+    ],
+    "hasEVs": false,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/1b067b3c97217eaf"
+  },
+  {
+    "author": "DomingoVGC",
+    "description": "VR September Challenge #2 Top 32 Team GCXR2RN1CQ",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Hippowdon"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/9e422cab36495fcb"
+  },
+  {
+    "author": "vgcluca",
+    "description": "Maddo's Cup #12 Champion Team B36UQTDY6T",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Sylveon"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ddcf443e371a3a19"
+  },
+  {
+    "author": "cobalt",
+    "description": "Salamence Glimmora Team Q6BL3K1NMH (Glimm protect should be spiky shield from tweet mention by cobalt)",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/652a6122d64aa2c1"
+  },
+  {
+    "author": "Guest 10150292",
+    "description": "floette amigos",
+    "pokemon": [
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Salamence"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/6f1d5b2b15285f2b"
+  },
+  {
+    "author": "drhairychic0",
+    "description": "Local Tour Champion Team YKAFKMJ9FE",
+    "pokemon": [
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Primarina"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/0e98dddb17860aaa"
+  },
+  {
+    "author": "Justin",
+    "description": "Raichu-Y Salamence Team CUSLJQTRFX",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/5cedf6dd944db220"
+  },
+  {
+    "author": "nagareoo",
+    "description": "Garchomp-Z Gengar Perish Team",
+    "pokemon": [
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Garchomp"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/25d5f5aae215e08c"
+  },
+  {
+    "author": "punihina1334",
+    "description": "Local Tour Champion Team CQ5CHD0L1B",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Tyranitar"
+      },
+      {
+        "species": "Excadrill"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/98d6e2fba3995368"
+  },
+  {
+    "author": "Prncessdiana",
+    "description": "Salamence Glimmora Team K14DMAHNUM",
+    "pokemon": [
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Volcarona"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Whimsicott"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/1c95ff346ce5b161"
+  },
+  {
+    "author": "MichaelderBeste2",
+    "description": "Lucario Z Feature Team",
+    "pokemon": [
+      {
+        "species": "Lucario-Mega-Z"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Dragapult"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Gyarados"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/b960485d27caebf9"
+  },
+  {
+    "author": "VGCPastes",
+    "description": "Genius' Local Tour Top 8 Team VAVLW41J1F",
+    "pokemon": [
+      {
+        "species": "Charizard"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Whimsicott"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ffe1c04c186b2453"
+  },
+  {
+    "author": "Sahil",
+    "description": "Meganium Aegislash Team XK0JD6L7WN",
+    "pokemon": [
+      {
+        "species": "Meganium"
+      },
+      {
+        "species": "Aerodactyl"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Aegislash"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/8bffd79270860304"
+  },
+  {
+    "author": "Sidi I. Haidala",
+    "description": "Local Tour Top 4 Team S4XYHWGKKB",
+    "pokemon": [
+      {
+        "species": "Froslass"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Primarina"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/52e5a54459427098"
+  },
+  {
+    "author": "U_DonPM",
+    "description": "Hammerlocke Challengers #4 Champion Team KP152ABTM8",
+    "pokemon": [
+      {
+        "species": "Absol"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Milotic"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/6e006ee64e68ff6b"
+  },
+  {
+    "author": "spy_anya11",
+    "description": "Lucario-Z Gengar Team TUANSUXE6G",
+    "pokemon": [
+      {
+        "species": "Lucario"
+      },
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Politoed"
+      },
+      {
+        "species": "Archaludon"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/4dd5fcddd90e5ebb"
+  },
+  {
+    "author": "kayato_vgc",
+    "description": "Salamence Aerodactyl Team HDJWA9QXSQ",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Aerodactyl"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Blaziken"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/cea79bfa59e2fd6b"
+  },
+  {
+    "author": "espertcg",
+    "description": "Baltimore Regional Challenge Top 16 Team 7VRGWMPSR5",
+    "pokemon": [
+      {
+        "species": "Sirfetch’d"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Hatterene"
+      },
+      {
+        "species": "Camerupt"
+      },
+      {
+        "species": "Golisopod"
+      },
+      {
+        "species": "Armarouge"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/e186eb86a1990ce2"
+  },
+  {
+    "author": "Sahil",
+    "description": "Absol-Z Meganium Team 3KL0V0VR4F",
+    "pokemon": [
+      {
+        "species": "Absol"
+      },
+      {
+        "species": "Toxtricity"
+      },
+      {
+        "species": "Aerodactyl"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Meganium"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/000dee84b382d990"
+  },
+  {
+    "author": "toshiniki",
+    "description": "Metagross Arboliva Team DS9NB5HHWV",
+    "pokemon": [
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Arboliva"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Volcarona"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/93b626e0c928be89"
+  },
+  {
+    "author": "lj_darkrai",
+    "description": "Blaziken Vanilluxe Team 7PS435Q34B",
+    "pokemon": [
+      {
+        "species": "Blaziken"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Vanilluxe"
+      },
+      {
+        "species": "Torkoal"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/817ae21505e679f7"
+  },
+  {
+    "author": "pokebrosvgc",
+    "description": "Talon's Fight Club #102 Champion Team 0WFEL7DA5P",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Rillaboom"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/d6b2f01ddf4fee52"
+  },
+  {
+    "author": "carlosmalaraza",
+    "description": "Salamence Metagross Team 6D92FFVNH4",
+    "pokemon": [
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Blaziken"
+      },
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Basculegion"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/5670ef4b16449cc0"
+  },
+  {
+    "author": "Wowyang",
+    "description": "Salamence Floette Team 900RXJ1XNS",
+    "pokemon": [
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Blastoise"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Floette-Eternal"
+      },
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Kingambit"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/f22e21bb4d824590"
+  },
+  {
+    "author": "cona",
+    "description": "Garchomp-Z Psyspam Team 4W8RLPR6A8",
+    "pokemon": [
+      {
+        "species": "Delphox"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Garchomp"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Basculegion"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/2dfbf9f89dfbd0bb"
+  },
+  {
+    "author": "barudoru",
+    "description": "Absol-Z Metagross Team P52T1BTFR6",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Armarouge"
+      },
+      {
+        "species": "Absol"
+      },
+      {
+        "species": "Glimmora"
+      },
+      {
+        "species": "Metagross"
+      },
+      {
+        "species": "Vanilluxe"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/199745ed6f3b10ed"
+  },
+  {
+    "author": "mallekoenig",
+    "description": "Charizard-Y Alakazam Team PYW7V3TJRU",
+    "pokemon": [
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Alakazam"
+      },
+      {
+        "species": "Ninetales-Alola"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Charizard"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/a50416450094f382"
+  },
+  {
+    "author": "m6hn67",
+    "description": "Raichu-Y Staraptor Team SGYDB95UJS",
+    "pokemon": [
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Sylveon"
+      },
+      {
+        "species": "Glimmora"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/6f9bc8dfb52d4e49"
+  },
+  {
+    "author": "v1nzvgc",
+    "description": "Gengar Altaria Perish Team Q233CRT930",
+    "pokemon": [
+      {
+        "species": "Gengar"
+      },
+      {
+        "species": "Incineroar"
+      },
+      {
+        "species": "Altaria"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Toxapex"
+      },
+      {
+        "species": "Sableye"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/ab47ccee10152485"
+  },
+  {
+    "author": "0ohiruneo0",
+    "description": "Swampert Sneasler Rain Team",
+    "pokemon": [
+      {
+        "species": "Pelipper"
+      },
+      {
+        "species": "Swampert"
+      },
+      {
+        "species": "Archaludon"
+      },
+      {
+        "species": "Sneasler"
+      },
+      {
+        "species": "Indeedee-F"
+      },
+      {
+        "species": "Gholdengo"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/553b3b47d153ffac"
+  },
+  {
+    "author": "PhoNoodle",
+    "description": "Recreation of MichaelderBeste's VR September Challenge Champion Team MF65CRMSM1",
+    "pokemon": [
+      {
+        "species": "Staraptor"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Raichu"
+      },
+      {
+        "species": "Gholdengo"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Sylveon"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/56f0a0120cd736e5"
+  },
+  {
+    "author": "PokeReplaysVGC",
+    "description": "🔥Farigiraf Solos🔥",
+    "pokemon": [
+      {
+        "species": "Salamence"
+      },
+      {
+        "species": "Arcanine-Hisui"
+      },
+      {
+        "species": "Rillaboom"
+      },
+      {
+        "species": "Kingambit"
+      },
+      {
+        "species": "Farigiraf"
+      },
+      {
+        "species": "Sylveon"
+      }
+    ],
+    "hasEVs": true,
+    "format": "gen9championsvgc2026regmc",
+    "url": "https://pokepast.es/f85133bac58b317f"
+  },
+  {
     "author": "a__poke_",
     "description": "Froslass Scovillian Team",
     "pokemon": [
